@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "firstName": "Sarthak",
+        "lastName": "Awasthi",
+        "phone": "123-456-7890",
+        "company": "N/A",
+        "project": "CRM",
+        "notes": "Just a note"
+    },
+    {
+        "id": 1,
+        "firstName": "Mridul",
+        "lastName": "Awasthi",
+        "phone": "123-456-7890",
+        "company": "N/A",
+        "project": "CRM",
+        "notes": "Just a note"
+    },
+    {
+        "id": 1,
+        "firstName": "Jotaro",
+        "lastName": "Awasthi",
+        "phone": "123-456-7890",
+        "company": "N/A",
+        "project": "CRM",
+        "notes": "Just a note"
+    }
+
+]
